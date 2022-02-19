@@ -2414,7 +2414,8 @@ export default function htmlForm() {
                     </div>
                     
                     <div className="grid place-items-center w-full">
-                    <button className="bg-tc text-bg font-heads font-medium text-2xl rounded-xl px-10 py-1 z-10 my-4 m-auto " type="submit">Enviar</button>
+                    <h1 className="text-4xl font-heads m-auto text-tc mt-4 w-5/6  text-center mb-10" >Las inscripciones se encuentran cerradas, muchas gracias por tu participación </h1>
+
 
                     </div>
                 </form>
